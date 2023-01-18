@@ -199,6 +199,6 @@ https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial
 
 ## Author
 
-My name is Nathan Difiori and I am currenlty a UCI Fullstack Bootcamp student. Here is a link to my Github. Please feel free to reach out to me: ndifiori@gmail.com .
+My name is Nathan Difiori and I am currenlty a UCI Fullstack Bootcamp student. Below is a link to my Github. Please feel free to reach out to me: ndifiori@gmail.com .
 
 Here is my [Github Repo](https://github.com/ndifiori?tab=repositories).
